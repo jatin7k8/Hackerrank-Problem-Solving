@@ -10,6 +10,3 @@
 	<img src="https://img.shields.io/badge/Score-yellow.svg">
 	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 </p>
-https://www.hackerrank.com/jatin7k8
-
-Hackerrank-Problem-solving solution 
